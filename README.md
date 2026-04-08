@@ -7,7 +7,7 @@
 ## 🔧 Skills
 - HTML, CSS, Javascript
 - Java, C, C++,python
-- Basic Data Structures
+- Data Structures and Algorithms
 
 ## 📌 Projects
 - Amazon Clone (HTML, CSS)
