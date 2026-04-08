@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Priyanka 👋
 
-<!--
-**priyankamodi2509-a11y/priyankamodi2509-a11y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student at VIT Vellore(currently in 2nd year).  
+💻 Interested in Web Development. 
+ 
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- HTML, CSS, Javascript
+- Java, C, C++,python
+- Basic Data Structures
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- Amazon Clone (HTML, CSS)
+- Destination Explorer Website(HTML,CSS,JS,React)
+
+## 📫 Contact
+- Email: priyankamodi2509@gmail.com
+  
